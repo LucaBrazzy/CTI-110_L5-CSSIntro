@@ -1,0 +1,34 @@
+.header {
+    color : #BC3E44;
+    Margin: 20px;
+    font-size: 22px;
+}
+
+.text {
+    color : #19D219;
+    Margin: 20px;
+    font-size: 18px;
+}
+
+.feats {
+    color : #EED942;
+    Margin: 20px;
+    font-size: 18px;
+}
+body {
+    background-color: #C15E97;
+}
+#shanks {
+    color: red;
+    font-family:cursive
+}
+
+#kaido {
+    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#Luffy {
+    color: orangered;
+    font-family:fantasy;
+}
